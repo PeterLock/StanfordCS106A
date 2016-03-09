@@ -1,3 +1,11 @@
+/** File name: ComputerGuess.java
+ *  -----------------------------
+ *  Simple program to test an algortihm for a larger program. Finds
+ *  the number the user entered out of a max number of tries.
+ * 
+ *  Programmer: Peter Lock
+**/
+
 package com.chapter11;
 
 import java.util.Scanner;
