@@ -3,6 +3,8 @@
  * ------------------------------
  * This program uses a table of mileage data to calculate
  * the distance between US cities.
+ *
+ * Programmer: Peter Lock
  */
 
 package com.chapter11;
